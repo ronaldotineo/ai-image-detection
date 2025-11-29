@@ -20,4 +20,8 @@ env/
 .DS_Store
 .vscode/
 .idea/
+
+
+*.sh
+
 EOF
